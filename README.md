@@ -52,6 +52,7 @@ MCP servers that extend AI assistants with new tools and capabilities.
 - [alvesribeirof/architecture-analysis-mcp](https://github.com/alvesribeirof/architecture-analysis-mcp) `#️⃣` `🔗` – MCP server for architectural code analysis focusing on SOLID principles, Design Patterns, and immediate feedback to the developer. **by [@alvesribeirof](https://github.com/alvesribeirof)**
 
 - [JeisonSilva/mcp-OmniMatch](https://github.com/JeisonSilva/mcp-OmniMatch) `📇` `🏠` – MCP server that maps Angular screens to .NET Web API endpoints, accumulates extracted schemas in SQLite across multiple tool calls, and evaluates frontend–backend field and type compatibility — at zero LLM API cost. **by [@JeisonSilva](https://github.com/JeisonSilva)**
+- [JeisonSilva/consultor-contas](https://github.com/JeisonSilva/consultor-contas) `📇` `☁️` `🔗` – MCP server that exposes a real estate budget analysis tool: reads property cost CSVs (IPTU, condominium fees, insurance), filters and ranks properties via a LangGraph planner–responder pipeline, and answers natural-language queries via OpenRouter. **by [@JeisonSilva](https://github.com/JeisonSilva)**
 
 - [s3b4hjr/philosophy-mcp](https://github.com/s3b4hjr/philosophy-mcp) `🐍` `☁️` - MCP server for a multilingual philosophy corpus — glossary, syntheses, thinker profiles, and articles in Portuguese, English, and Spanish. **by [@s3b4hjr](https://github.com/s3b4hjr)**
 
@@ -61,6 +62,7 @@ MCP servers that extend AI assistants with new tools and capabilities.
 
 Autonomous agents that accomplish multi-step tasks using LLMs.
 
+- [JeisonSilva/AtendimentoConsultasMedicas](https://github.com/JeisonSilva/AtendimentoConsultasMedicas) `📇` `☁️` `🔗` – Multi-agent LangGraph chatbot that guides patients through medical appointment scheduling, lookup, and cancellation, with session and booking persistence via PostgreSQL. **by [@JeisonSilva](https://github.com/JeisonSilva)**
 - [SyanCS/pokemon-training-center](https://github.com/SyanCS/pokemon-training-center) `📇` `🔗` – AI scheduling assistant that classifies natural-language intents via LangGraph + OpenRouter to manage Pokemon lesson enrollments, bookings, and recommendations. **by [@SyanCS](https://github.com/SyanCS)**
 - [SyanCS/alvorada_real_estate](https://github.com/SyanCS/alvorada_real_estate) `📇` `🔗` – Real estate research platform with three LangGraph pipelines for feature extraction from notes, natural-language property ranking, and Neo4j GraphRAG similarity search. **by [@SyanCS](https://github.com/SyanCS)**
 - [matheusmschaffer/entrevistador-implacavel](https://github.com/matheusmschaffer/entrevistador-implacavel) `TypeScript` `AI Agent` – LangGraph agent that conducts job interviews with four distinct personalities, evaluates answers silently, and delivers dramatic feedback. **by [@matheusmschaffer](https://github.com/matheusmschaffer)**
@@ -108,6 +110,7 @@ CLIs, libraries, helpers, and developer tools powered by AI.
 - [ftonato/auris](https://github.com/ftonato/auris) `📇` `☁️` – Production-grade Node.js RAG system with hybrid retrieval, pluggable adapters, and OpenTelemetry tracing. **by [@ftonato](https://github.com/ftonato)**
 - [lucas-figueiredo-m/radar](https://github.com/lucas-figueiredo-m/radar) `📡` `🪲` - An integrated React Native DevTools with console, networking, native metrics and more, powered with an MCP for AI-assisted debugging. **by [@lucas-figueiredo-m](https://github.com/lucas-figueiredo-m)**
 - [ftuyama/scroll-closing-your-eyes](https://github.com/ftuyama/scroll-closing-your-eyes) `🐍` `🏠` – Hands-free scrolling driven by eye closure (left eye up, right eye down) using the webcam, MediaPipe Face Landmarker, and PyAutoGUI, with blink filtering and “look straight” gating. **by [@ftuyama](https://github.com/ftuyama)**
+- [JeisonSilva/chat-document-response](https://github.com/JeisonSilva/chat-document-response) `📇` `☁️` `🔗` – RAG pipeline that ingests PDFs into Neo4j using local HuggingFace embeddings and answers natural-language questions via OpenRouter LLMs. **by [@JeisonSilva](https://github.com/JeisonSilva)**
 - [Brunoolliveira1993/code-review-ai](https://github.com/Brunoolliveira1993/code-review-ai) `📇` `🏠` - Analyzes GitHub Pull Requests,analyzes GitLab and GitLab Merge Requests, collects the PR/MR or commit diff, sends the code to AI via OpenRouter, and displays found issues and suggestions **by [@Brunoolliveira1993](https://github.com/Brunoolliveira1993)**
 ---
 
